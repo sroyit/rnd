@@ -1,0 +1,10 @@
+# Application Configuration File
+config/config.conf
+
+
+# DATABASE FILE
+rootConfig.php
+
+
+# LIB DIRECTORY
+lib/*
